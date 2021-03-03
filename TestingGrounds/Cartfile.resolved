@@ -1,0 +1,5 @@
+github "Alamofire/Alamofire" "5.4.0"
+github "ReactiveCocoa/ReactiveCocoa" "10.3.0"
+github "ReactiveCocoa/ReactiveSwift" "6.5.0"
+github "SnapKit/SnapKit" "5.0.1"
+github "ibireme/YYImage" "1.0.4"
