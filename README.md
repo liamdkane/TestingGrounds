@@ -48,7 +48,7 @@ I went with an absolutely stripped down UI.
 
 ###### [GIPHY SDK](https://github.com/Giphy/giphy-ios-sdk-ui-example/blob/master/Docs.md)
 
-My initial thought was to look at that SDK, which did everything the challenge needed and much more. However, after spinning up a test project and implementing it there was almost nothing to show about how I build an idea out. 
+This is an alternative way to implement this same app, but as this is more of a playground for me to look at patterns and ideas, I feel it undermines the purpose :).
 
 ###### Closing
 
