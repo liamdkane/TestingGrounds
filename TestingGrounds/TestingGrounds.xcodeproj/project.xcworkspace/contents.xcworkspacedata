@@ -2,6 +2,6 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "self:/Users/shifty__name/Code/KickstarterCodingChallenge/TestingGrounds.xcodeproj">
+      location = "self:">
    </FileRef>
 </Workspace>
