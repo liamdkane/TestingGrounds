@@ -35,7 +35,7 @@ The networking layer follows a similar pattern I have used in previous projects.
 
 ###### MVVM + ReactiveSwift
 
-At this point an industry standard, MVVM allows for more testable code vs MVC. Although I am a bit more familiar with RxSwift, I decided to try out ReactiveSwift for this project as the Kickstarter App is built on it :).  
+At this point an industry standard, I believe the increased testibility and intuitive multithreading are incredible aspects of this design pattern.
 
 ###### UI/UX
 
